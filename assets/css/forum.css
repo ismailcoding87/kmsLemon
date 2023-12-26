@@ -1,0 +1,68 @@
+#output-forum ul {
+	list-style-type: none;
+}
+
+#output-forum .diskusi-row {
+	border: #e0dfdf 1px solid;
+	margin-bottom: 15px;
+	padding: 15px;
+	border-radius: 5px;
+}
+
+#output-forum .outer-diskusi {
+	margin-left: 0;
+	padding-left: 0;
+}
+
+#output-forum span.diskusi-row-label {
+	color: #484848;
+}
+
+#output-forum span.posted-by {
+	font-weight: bold;
+}
+
+#output-forum .diskusi-info {
+	font-size: 0.9em;
+	padding: 0 0 10px 0;
+}
+
+#output-forum .diskusi-text {
+	margin: 10px 0px 30px 0;
+}
+
+#output-forum .btn-reply {
+	font-size: 14px;
+	color: #2f20d1;
+	cursor: pointer;
+	text-decoration: none;
+	margin-right: 4px;
+}
+
+#output-forum .btn-reply:hover {
+	text-decoration: underline;
+}
+
+#output-forum .btn-update {
+	font-size: 14px;
+	color: #ffc107;
+	cursor: pointer;
+	text-decoration: none;
+	margin: 0 4px;
+}
+
+#output-forum .btn-update:hover {
+	text-decoration: underline;
+}
+
+#output-forum .btn-hapus {
+	font-size: 14px;
+	color: #dc3545;
+	cursor: pointer;
+	text-decoration: none;
+	margin: 0 4px;
+}
+
+#output-forum .btn-hapus:hover {
+	text-decoration: underline;
+}
